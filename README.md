@@ -2,15 +2,19 @@
 Here be my personal gEDA suite symbols and footprints.
 
 ## SPDT switch
-*This part is in beta. Meaning, I have not gone to production with this and verified that it works*
+*This part is in beta. Meaning, I have not gone to production with this and
+verified that it works*
 
-A cute little bugger that I purchase from [Sparkfun] (http://www.sparkfun.com/products/9609). To use, add the built-in gschem symbol switch-spdt-1.sym to your diagram and set the footprint to "spdt_slide_switch".
+A cute little bugger that I purchase from [Sparkfun](http://www.sparkfun.com/products/9609).
+To use, add the built-in gschem symbol switch-spdt-1.sym to your diagram and set
+the footprint to "spdt\_slide\_switch".
 
 # Related Information
-More footprints can be fount at www.gedasymbols.org. These objects were created following this sage advice:
+More footprints can be fount at [gEDA Symbols](www.gedasymbols.org). These
+objects were created following this sage advice:
 
-* http://www.geda.seul.org/wiki/geda:gschem_symbol_creation
-* http://www.geda.seul.org/wiki/geda:master_attributes_list#device
+* [gschem symbol creation](http://www.geda.seul.org/wiki/geda:gschem_symbol_creation)
+* [master attributes list](http://www.geda.seul.org/wiki/geda:master_attributes_list)
 
 No fish were hurt in the making of these objects.
 
